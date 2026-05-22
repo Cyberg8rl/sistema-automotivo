@@ -1,0 +1,13 @@
+### Criar um novo veículo (Operação POST)
+POST http://localhost:8080/api/veiculos
+Content-Type: application/json
+
+{
+  "marca": "Toyota",
+  "modelo": "Corolla",
+  "ano": 2024,
+  "cor": "Prata",
+  "preco": 145000.0,
+  "quilometragem": 0.0,
+  "status": "Disponível"
+}
