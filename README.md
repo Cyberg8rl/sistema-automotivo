@@ -48,12 +48,6 @@ A configuração utiliza variáveis de ambiente para evitar credenciais fixas no
 
 Este é um projeto de estudo em evolução. Antes de considerar a aplicação pronta para execução por outras pessoas, confira se o arquivo de build Maven (`pom.xml`) está presente na versão atual, valide a configuração local do MySQL e execute os testes.
 
-Melhorias planejadas:
-- Documentar exemplos de requisições e respostas.
-- Adicionar validação dos dados recebidos.
-- Ampliar os testes automatizados para os cenários de sucesso e erro.
-- Documentar códigos HTTP e possíveis falhas de banco de dados.
-
 ## Finalidade
 
 Projeto educacional para praticar Java, APIs REST, CRUD e persistência de dados. Não representa um sistema de produção.
